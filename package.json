@@ -1,0 +1,18 @@
+{
+  "name": "express-example",
+  "version": "1.0.0",
+  "repository": "https://github.com/0x6a6f68616e6e6573/express-example",
+  "author": "Johannes <holzhauer-johannes@gmx.de>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "multer": "^1.4.5-lts.1",
+    "pug": "^3.0.2"
+  }
+}
